@@ -1,1 +1,6 @@
 
+Aplicativo usando kodular, onde foi utilizado tibydb para armazenar informações como cidade selecionada.
+
+O aplicativo consiste em enviar requisições para a api da CPRM afim de buscar dados de nível dos rios abordados no aplicativo. 
+
+A ideia do aplicativo é fornecer uma fácil visualização e acesso aos dados dos rios de cidades onde historicamente existem enchentes em quase todos os anos.
